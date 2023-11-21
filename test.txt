@@ -1,1 +1,2 @@
 Echo 0;
+Echo 1;
